@@ -1,0 +1,27 @@
+Project: Connections
+Name: Alex Vu
+Date: 11/8/2025
+
+Outline:
+        Connections offers the user the ability edit a locally-saved list of 
+        friends, and also print out the last time that each friend was seen. 
+
+Architecture:
+        
+
+
+Planning:
+
+Files to:
+        Instantiate and lookup the hash table
+        Read from/write to .json files
+        main driver
+        class definition for friend
+        class definiton for friend_book
+
+
+        
+To fully expand I would
+        1. expand to SQLite storage in order learn SQL
+        2. expand to a web app so I don't have to enter commands on the command
+           line
